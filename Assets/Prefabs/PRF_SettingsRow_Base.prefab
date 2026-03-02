@@ -597,8 +597,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SCP_ToggleController
   circle: {fileID: 2100719880435871222}
-  posOn: 30
-  posOff: -30
+  posOn: 31
+  posOff: -26
   timePos: 0.2
 --- !u!1 &8191651092252127638
 GameObject:

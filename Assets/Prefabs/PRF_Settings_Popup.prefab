@@ -1793,7 +1793,7 @@ PrefabInstance:
     - target: {fileID: 4571606169832355318, guid: 3daa0f08924c7184884ac2eebdde72a0, type: 3}
       propertyPath: m_sharedMaterial
       value: 
-      objectReference: {fileID: 5680771089005847712, guid: 1582b85735db51146ae7e37b83a63a4f, type: 2}
+      objectReference: {fileID: 2100000, guid: b7c8ae1625800d74b813e276626f1924, type: 2}
     - target: {fileID: 4571606169832355318, guid: 3daa0f08924c7184884ac2eebdde72a0, type: 3}
       propertyPath: m_characterSpacing
       value: -8.5

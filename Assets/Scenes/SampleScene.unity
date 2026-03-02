@@ -647,7 +647,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.06523368, g: 0, b: 0.254717, a: 1}
+  m_Color: {r: 0.06523368, g: 0, b: 0.25882354, a: 1}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6101,7 +6101,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -369.45996}
+  m_AnchoredPosition: {x: 0, y: -369}
   m_SizeDelta: {x: 0, y: 740}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!199 &455342384
@@ -35000,6 +35000,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2719929016875070539, guid: 602b93c12bb47b24290a07b92968c579, type: 3}
       propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2915845157676869086, guid: 602b93c12bb47b24290a07b92968c579, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2915845157676869086, guid: 602b93c12bb47b24290a07b92968c579, type: 3}
+      propertyPath: m_enableAutoSizing
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2995220054541624940, guid: 602b93c12bb47b24290a07b92968c579, type: 3}
